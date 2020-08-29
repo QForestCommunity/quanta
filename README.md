@@ -1,2 +1,2 @@
 # quanta
-A python library simulating optical elements. 
+A python library simulating optical circuits.
